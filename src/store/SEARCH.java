@@ -298,7 +298,7 @@ public class SEARCH extends javax.swing.JFrame {
             }
             if(c==0)
             {
-                jLabel8.setText("Invalid CustomerId.");
+                jLabel8.setText("Invalid TransactionId.");
 
             }
 
